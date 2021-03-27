@@ -27,7 +27,7 @@
             }
         },
         {
-            "name": ".NET Core Attach",
+            "name": "Attach My Debugger",
             "type": "coreclr",
             "request": "attach",
             "processId": "${command:pickProcess}"
